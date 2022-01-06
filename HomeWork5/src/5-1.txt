@@ -1,0 +1,9 @@
+In the main function, three objects are created, which are independent objects, later, aC is upcasted and
+ assigned the reference to aB, similarly aB is upcasted and assigned the reference to aA.
+
+ When aB.aInstanceIntSet(200) and aA.aInstanceIntSet(100) is called aC method will be called to set the aInstanceInt
+ variable. So this way all the aInstanceIntSet() method calls will set the value in aC. But when aB.aInstanceInt,
+ aA.aInstanceInt and aC.aInstanceInt is set, it directly set the values of each reference object.
+
+
+ This way all the values are stored in aC, aB and aA

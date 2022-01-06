@@ -1,0 +1,35 @@
+Line 37
+A variable aMyStack with MyStack of Integer is created where in MyStack Vector of Integers is created only type Integer my stack. Here only type integers can be added in the aMyStack.
+
+Line 38
+A variable aVector with Vector of MyStack of integers is created. Here to aVector only MyStack of integers can be added 
+
+Line 39
+A variable bMyStack created with MyStack of MyStack of Integers can be added. Here in MyStack Vector of MyStack with Integers is created
+
+Line 40
+A variable bVector is created with Vector of MyStack of MyStack of Integers can be added to the variable bVector. 
+
+Line 43
+A variable aA1 of MyStack of A1 class is created. Here in the variable all the classes variables of A1, A2, A3, A4 can be added
+
+Line 44
+A variable aA2 of MyStack of A2 class is created. Here in the variable all the classes variables of A2, A3, A4
+ can be added
+
+Line 45
+A variable aA3 of MyStack of A3 class is created. Here in the variable all the classes variables of A3 can be added
+
+Line 46
+A variable aA4 of MyStack of A4 class is created. Here in the variable all the classes variables of A4
+ can be added
+
+Line 32
+Method m1 accepts MyStack of classes A3
+
+Line 33
+Method m2 accepts MyStack of classes A1, A2, A3, A4, Object
+
+Line 34
+Method m1 accepts MyStack of classes A3, A2, A1, Object
+
